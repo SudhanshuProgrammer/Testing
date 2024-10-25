@@ -1,0 +1,4 @@
+11:38:05.860 [main] INFO  api.test.UserTest - **** Updating User ****
+11:38:09.136 [main] INFO  api.test.UserTest - **** User is Updated ****
+11:38:09.142 [main] INFO  api.test.UserTest - **** Deleting User ****
+11:38:11.005 [main] INFO  api.test.UserTest - **** User is Deleted ****

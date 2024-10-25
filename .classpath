@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/byte-buddy-1.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/byte-buddy-1.15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/checker-qual-3.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/checker-qual-3.43.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/error_prone_annotations-2.28.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/error_prone_annotations-2.28.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/guava-33.3.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/guava-33.3.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-api-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-api-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-api-incubator-1.41.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-api-incubator-1.41.0-alpha.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-context-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-context-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-exporter-logging-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-exporter-logging-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-common-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-common-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-extension-autoconfigure-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-extension-autoconfigure-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-logs-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-logs-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-metrics-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-metrics-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-trace-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-sdk-trace-1.41.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-api-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-api-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-chrome-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-chrome-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-chromium-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-chromium-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v85-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v85-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v126-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v126-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v127-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v127-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v128-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-devtools-v128-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-edge-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-edge-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-firefox-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-firefox-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-http-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-http-4.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Selenium-Jar-Files/selenium-ie-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sudhanshukumar/Downloads/jaxrs-code-generator-2.0.0-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
